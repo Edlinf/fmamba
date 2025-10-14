@@ -3,7 +3,12 @@
 </p>
 
 # [ICASSP 2025 Oral] FMamba
-**First-order State Space Model for Lightweight Image Super-resolution**
+
+
+![Mamba](assets/selection.png "First-order state space model")
+> **First-order State Space Model for Lightweight Image Super-resolution**\
+> Yujie Zhu, Xinyi Zhang, Yekai Lu, Guang Yang, Faming Fang, Guixu Zhang\
+> Paper: https://arxiv.org/abs/2509.08458
 
 ## Citation
 
