@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="assets/logo.png" width="300">
+</p>
 
 # [ICASSP 2025 Oral] FMamba
 **First-order State Space Model for Lightweight Image Super-resolution**
