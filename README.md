@@ -5,10 +5,20 @@
 # [ICASSP 2025 Oral] FMamba
 
 
-![Mamba](assets/selection.png "First-order state space model")
+![Mamba](assets/continuous.png "First-order state space model")
 > **First-order State Space Model for Lightweight Image Super-resolution**\
 > Yujie Zhu, Xinyi Zhang, Yekai Lu, Guang Yang, Faming Fang, Guixu Zhang\
 > Paper: https://arxiv.org/abs/2509.08458
+
+## About
+
+This is the core module in our work [FMambaIR](https://github.com/Edlinf/FMambaIR), which can be installed separately as a package to replace the SSM module in Mamba.
+
+## Installation
+
+Built from source with `pip install .` from this repository.
+
+For installation requirement and details, please refer to [Mamba](https://github.com/state-spaces/mamba).
 
 ## Citation
 
