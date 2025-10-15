@@ -12,7 +12,7 @@
 
 ## About
 
-This is the core module in our work FMambaIR, which can be installed separately as a package to replace the SSM module in Mamba.
+This is the core module in our work [FMambaIR](https://github.com/Edlinf/FMambaIR), which can be installed separately as a package to replace the SSM module in Mamba.
 
 ## Installation
 
