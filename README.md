@@ -8,7 +8,7 @@
 ![Mamba](assets/continuous.png "First-order state space model")
 > **First-order State Space Model for Lightweight Image Super-resolution**\
 > Yujie Zhu, Xinyi Zhang, Yekai Lu, Guang Yang, Faming Fang, Guixu Zhang\
-> Paper: https://arxiv.org/abs/2509.08458
+> Paper: https://arxiv.org/abs/2509.08458v2
 
 ## About
 
